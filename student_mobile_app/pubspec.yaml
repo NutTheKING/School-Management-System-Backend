@@ -1,0 +1,35 @@
+name: parence_student
+description: Student dashboard mobile application.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  shared_preferences: ^2.3.2
+  flutter_svg: ^2.0.17
+  mobile_scanner: ^7.1.3
+  image_picker: ^1.1.2
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/welcome-back.png
+    - assets/grandview-logo.jpg
+    - assets/education-tools-background.png
+    - assets/generated-navigation-icons.png
+    - assets/student-avatar.png
+  fonts:
+    - family: KhmerOS
+      fonts:
+        - asset: assets/KhmerOS.ttf

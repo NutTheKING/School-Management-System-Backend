@@ -1,0 +1,10 @@
+Student/Staff ID Card update
+- White + #7B3F00 reference design
+- Front/back portrait cards
+- Company Logo from General Settings
+- Student photo / staff profile photo
+- Student: ID, Class, Session, Join Date
+- Staff: ID, Position, Session, Join Date
+- QR code on back
+- Phone, website, email, address from General Settings
+- A4 print layout prints front/back cards

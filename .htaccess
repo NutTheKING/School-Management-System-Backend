@@ -1,0 +1,16 @@
+Options -Indexes
+
+<IfModule mod_headers.c>
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set X-Frame-Options "DENY"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+</IfModule>
+
+<FilesMatch "(?i)\.(?:bak|backup|old|orig|sql|sqlite|sqlite3|db|env|ini|log|lock)$">
+    Require all denied
+</FilesMatch>
+
+<FilesMatch "^(?:composer\.(?:json|lock)|package(?:-lock)?\.json|pubspec(?:\.lock|\.yaml)?)$">
+    Require all denied
+</FilesMatch>

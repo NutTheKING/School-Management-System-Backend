@@ -1,0 +1,865 @@
+[Sun Aug 23 23:28:28 2026] PHP 8.0.30 Development Server (http://127.0.0.1:8000) started
+[Sun Aug 23 23:28:30 2026] 127.0.0.1:50142 Accepted
+[Sun Aug 23 23:28:30 2026] 127.0.0.1:50142 [200]: GET /
+[Sun Aug 23 23:28:30 2026] 127.0.0.1:50142 Closing
+[Sun Aug 23 23:29:54 2026] 127.0.0.1:50326 Accepted
+[Sun Aug 23 23:29:54 2026] 127.0.0.1:50326 [200]: GET /
+[Sun Aug 23 23:29:54 2026] 127.0.0.1:50326 Closing
+[Sun Aug 23 23:29:54 2026] 127.0.0.1:50327 Accepted
+[Sun Aug 23 23:29:54 2026] 127.0.0.1:50327 [200]: GET /flutter_bootstrap.js
+[Sun Aug 23 23:29:54 2026] 127.0.0.1:50327 Closing
+[Sun Aug 23 23:29:54 2026] 127.0.0.1:50328 Accepted
+[Sun Aug 23 23:29:54 2026] 127.0.0.1:50328 [200]: GET /manifest.json
+[Sun Aug 23 23:29:54 2026] 127.0.0.1:50328 Closing
+[Sun Aug 23 23:29:54 2026] 127.0.0.1:50329 Accepted
+[Sun Aug 23 23:29:54 2026] 127.0.0.1:50329 [200]: GET /main.dart.js
+[Sun Aug 23 23:29:54 2026] 127.0.0.1:50329 Closing
+[Sun Aug 23 23:29:55 2026] 127.0.0.1:50331 Accepted
+[Sun Aug 23 23:29:55 2026] 127.0.0.1:50331 [200]: GET /assets/FontManifest.json
+[Sun Aug 23 23:29:55 2026] 127.0.0.1:50331 Closing
+[Sun Aug 23 23:29:55 2026] 127.0.0.1:50332 Accepted
+[Sun Aug 23 23:29:55 2026] 127.0.0.1:50332 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Sun Aug 23 23:29:55 2026] 127.0.0.1:50332 Closing
+[Sun Aug 23 23:29:55 2026] 127.0.0.1:50333 Accepted
+[Sun Aug 23 23:29:55 2026] 127.0.0.1:50333 [200]: GET /assets/AssetManifest.bin.json
+[Sun Aug 23 23:29:55 2026] 127.0.0.1:50333 Closing
+[Sun Aug 23 23:34:38 2026] 127.0.0.1:50907 Accepted
+[Sun Aug 23 23:34:38 2026] 127.0.0.1:50907 [200]: GET /assets/assets/generated-navigation-icons.png
+[Sun Aug 23 23:34:38 2026] 127.0.0.1:50907 Closing
+[Sun Aug 23 23:34:38 2026] 127.0.0.1:50908 Accepted
+[Sun Aug 23 23:34:38 2026] 127.0.0.1:50908 [200]: GET /assets/assets/student-avatar.png
+[Sun Aug 23 23:34:38 2026] 127.0.0.1:50908 Closing
+[Sun Aug 23 23:34:38 2026] 127.0.0.1:50909 Accepted
+[Sun Aug 23 23:34:38 2026] 127.0.0.1:50909 [200]: GET /assets/assets/welcome-back.png
+[Sun Aug 23 23:34:38 2026] 127.0.0.1:50909 Closing
+[Sun Aug 23 23:34:38 2026] 127.0.0.1:50910 Accepted
+[Sun Aug 23 23:34:38 2026] 127.0.0.1:50910 [200]: GET /assets/assets/education-tools-background.png
+[Sun Aug 23 23:34:38 2026] 127.0.0.1:50910 Closing
+[Sun Aug 23 23:44:24 2026] 127.0.0.1:52220 Accepted
+[Sun Aug 23 23:44:24 2026] 127.0.0.1:52220 [200]: GET /assets/assets/student-avatar.png
+[Sun Aug 23 23:44:24 2026] 127.0.0.1:52220 Closing
+[Sun Aug 23 23:44:24 2026] 127.0.0.1:52221 Accepted
+[Sun Aug 23 23:44:24 2026] 127.0.0.1:52221 [200]: GET /assets/assets/welcome-back.png
+[Sun Aug 23 23:44:24 2026] 127.0.0.1:52221 Closing
+[Mon Aug 24 00:25:29 2026] 127.0.0.1:57588 Accepted
+[Mon Aug 24 00:25:29 2026] 127.0.0.1:57588 [200]: GET /main.dart.js?payment=1
+[Mon Aug 24 00:25:29 2026] 127.0.0.1:57588 Closing
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57634 Accepted
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57634 [200]: GET /
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57634 Closing
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57635 Accepted
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57635 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57635 Closing
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57636 Accepted
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57636 [200]: GET /manifest.json
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57636 Closing
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57637 Accepted
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57637 [200]: GET /main.dart.js
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57637 Closing
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57638 Accepted
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57638 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57638 Closing
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57639 Accepted
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57639 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 00:25:45 2026] 127.0.0.1:57639 Closing
+[Mon Aug 24 00:25:46 2026] 127.0.0.1:57642 Accepted
+[Mon Aug 24 00:25:46 2026] 127.0.0.1:57642 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 00:25:46 2026] 127.0.0.1:57642 Closing
+[Mon Aug 24 00:25:46 2026] 127.0.0.1:57643 Accepted
+[Mon Aug 24 00:25:46 2026] 127.0.0.1:57643 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 00:25:46 2026] 127.0.0.1:57643 Closing
+[Mon Aug 24 00:25:46 2026] 127.0.0.1:57644 Accepted
+[Mon Aug 24 00:25:46 2026] 127.0.0.1:57645 Accepted
+[Mon Aug 24 00:25:46 2026] 127.0.0.1:57646 Accepted
+[Mon Aug 24 00:25:46 2026] 127.0.0.1:57644 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 00:25:46 2026] 127.0.0.1:57645 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 00:25:46 2026] 127.0.0.1:57646 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 00:25:46 2026] 127.0.0.1:57645 Closing
+[Mon Aug 24 00:25:46 2026] 127.0.0.1:57644 Closing
+[Mon Aug 24 00:25:46 2026] 127.0.0.1:57646 Closing
+[Mon Aug 24 00:35:10 2026] 127.0.0.1:58863 Accepted
+[Mon Aug 24 00:35:10 2026] 127.0.0.1:58863 [200]: GET /
+[Mon Aug 24 00:35:10 2026] 127.0.0.1:58863 Closing
+[Mon Aug 24 00:35:10 2026] 127.0.0.1:58864 Accepted
+[Mon Aug 24 00:35:10 2026] 127.0.0.1:58864 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 00:35:10 2026] 127.0.0.1:58864 Closing
+[Mon Aug 24 00:35:10 2026] 127.0.0.1:58865 Accepted
+[Mon Aug 24 00:35:10 2026] 127.0.0.1:58865 [200]: GET /manifest.json
+[Mon Aug 24 00:35:10 2026] 127.0.0.1:58865 Closing
+[Mon Aug 24 00:35:10 2026] 127.0.0.1:58866 Accepted
+[Mon Aug 24 00:35:10 2026] 127.0.0.1:58866 [200]: GET /main.dart.js
+[Mon Aug 24 00:35:10 2026] 127.0.0.1:58866 Closing
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58870 Accepted
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58870 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58870 Closing
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58871 Accepted
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58871 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58871 Closing
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58873 Accepted
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58873 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58873 Closing
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58874 Accepted
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58875 Accepted
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58874 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58875 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58876 Accepted
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58874 Closing
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58876 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58875 Closing
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58877 Accepted
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58877 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58876 Closing
+[Mon Aug 24 00:35:11 2026] 127.0.0.1:58877 Closing
+[Mon Aug 24 00:38:11 2026] 127.0.0.1:59280 Accepted
+[Mon Aug 24 00:38:11 2026] 127.0.0.1:59280 [200]: GET /
+[Mon Aug 24 00:38:11 2026] 127.0.0.1:59280 Closing
+[Mon Aug 24 00:38:11 2026] 127.0.0.1:59281 Accepted
+[Mon Aug 24 00:38:11 2026] 127.0.0.1:59281 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 00:38:11 2026] 127.0.0.1:59281 Closing
+[Mon Aug 24 00:38:11 2026] 127.0.0.1:59282 Accepted
+[Mon Aug 24 00:38:11 2026] 127.0.0.1:59282 [200]: GET /manifest.json
+[Mon Aug 24 00:38:11 2026] 127.0.0.1:59282 Closing
+[Mon Aug 24 00:38:11 2026] 127.0.0.1:59283 Accepted
+[Mon Aug 24 00:38:11 2026] 127.0.0.1:59283 [200]: GET /main.dart.js
+[Mon Aug 24 00:38:11 2026] 127.0.0.1:59283 Closing
+[Mon Aug 24 00:38:12 2026] 127.0.0.1:59285 Accepted
+[Mon Aug 24 00:38:12 2026] 127.0.0.1:59285 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 00:38:12 2026] 127.0.0.1:59285 Closing
+[Mon Aug 24 00:38:12 2026] 127.0.0.1:59286 Accepted
+[Mon Aug 24 00:38:12 2026] 127.0.0.1:59286 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 00:38:12 2026] 127.0.0.1:59286 Closing
+[Mon Aug 24 00:38:12 2026] 127.0.0.1:59289 Accepted
+[Mon Aug 24 00:38:12 2026] 127.0.0.1:59289 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 00:38:12 2026] 127.0.0.1:59289 Closing
+[Mon Aug 24 00:38:13 2026] 127.0.0.1:59291 Accepted
+[Mon Aug 24 00:38:13 2026] 127.0.0.1:59292 Accepted
+[Mon Aug 24 00:38:13 2026] 127.0.0.1:59293 Accepted
+[Mon Aug 24 00:38:13 2026] 127.0.0.1:59294 Accepted
+[Mon Aug 24 00:38:13 2026] 127.0.0.1:59291 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 00:38:13 2026] 127.0.0.1:59292 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 00:38:13 2026] 127.0.0.1:59293 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 00:38:13 2026] 127.0.0.1:59294 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 00:38:13 2026] 127.0.0.1:59292 Closing
+[Mon Aug 24 00:38:13 2026] 127.0.0.1:59291 Closing
+[Mon Aug 24 00:38:13 2026] 127.0.0.1:59293 Closing
+[Mon Aug 24 00:38:13 2026] 127.0.0.1:59294 Closing
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59493 Accepted
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59493 [200]: GET /
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59493 Closing
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59494 Accepted
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59494 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59494 Closing
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59495 Accepted
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59495 [200]: GET /manifest.json
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59495 Closing
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59496 Accepted
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59496 [200]: GET /main.dart.js
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59496 Closing
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59498 Accepted
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59498 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59498 Closing
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59499 Accepted
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59499 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59499 Closing
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59501 Accepted
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59501 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 00:39:41 2026] 127.0.0.1:59501 Closing
+[Mon Aug 24 00:39:42 2026] 127.0.0.1:59503 Accepted
+[Mon Aug 24 00:39:42 2026] 127.0.0.1:59503 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 00:39:42 2026] 127.0.0.1:59503 Closing
+[Mon Aug 24 00:39:42 2026] 127.0.0.1:59504 Accepted
+[Mon Aug 24 00:39:42 2026] 127.0.0.1:59505 Accepted
+[Mon Aug 24 00:39:42 2026] 127.0.0.1:59506 Accepted
+[Mon Aug 24 00:39:42 2026] 127.0.0.1:59504 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 00:39:42 2026] 127.0.0.1:59505 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 00:39:42 2026] 127.0.0.1:59506 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 00:39:42 2026] 127.0.0.1:59505 Closing
+[Mon Aug 24 00:39:42 2026] 127.0.0.1:59504 Closing
+[Mon Aug 24 00:39:42 2026] 127.0.0.1:59506 Closing
+[Mon Aug 24 00:48:24 2026] 127.0.0.1:60782 Accepted
+[Mon Aug 24 00:48:24 2026] 127.0.0.1:60782 [200]: GET /main.dart.js?receipt=1
+[Mon Aug 24 00:48:24 2026] 127.0.0.1:60782 Closing
+[Mon Aug 24 00:50:34 2026] 127.0.0.1:61061 Accepted
+[Mon Aug 24 00:50:34 2026] 127.0.0.1:61061 [200]: GET /
+[Mon Aug 24 00:50:34 2026] 127.0.0.1:61061 Closing
+[Mon Aug 24 00:50:34 2026] 127.0.0.1:61062 Accepted
+[Mon Aug 24 00:50:34 2026] 127.0.0.1:61062 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 00:50:34 2026] 127.0.0.1:61062 Closing
+[Mon Aug 24 00:50:34 2026] 127.0.0.1:61063 Accepted
+[Mon Aug 24 00:50:34 2026] 127.0.0.1:61063 [200]: GET /manifest.json
+[Mon Aug 24 00:50:34 2026] 127.0.0.1:61063 Closing
+[Mon Aug 24 00:50:34 2026] 127.0.0.1:61064 Accepted
+[Mon Aug 24 00:50:34 2026] 127.0.0.1:61064 [200]: GET /main.dart.js
+[Mon Aug 24 00:50:34 2026] 127.0.0.1:61064 Closing
+[Mon Aug 24 00:50:35 2026] 127.0.0.1:61068 Accepted
+[Mon Aug 24 00:50:35 2026] 127.0.0.1:61068 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 00:50:35 2026] 127.0.0.1:61068 Closing
+[Mon Aug 24 00:50:35 2026] 127.0.0.1:61069 Accepted
+[Mon Aug 24 00:50:35 2026] 127.0.0.1:61069 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 00:50:35 2026] 127.0.0.1:61069 Closing
+[Mon Aug 24 00:50:35 2026] 127.0.0.1:61072 Accepted
+[Mon Aug 24 00:50:35 2026] 127.0.0.1:61072 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 00:50:35 2026] 127.0.0.1:61072 Closing
+[Mon Aug 24 00:50:36 2026] 127.0.0.1:61074 Accepted
+[Mon Aug 24 00:50:36 2026] 127.0.0.1:61074 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 00:50:36 2026] 127.0.0.1:61074 Closing
+[Mon Aug 24 00:50:36 2026] 127.0.0.1:61075 Accepted
+[Mon Aug 24 00:50:36 2026] 127.0.0.1:61075 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 00:50:36 2026] 127.0.0.1:61076 Accepted
+[Mon Aug 24 00:50:36 2026] 127.0.0.1:61076 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 00:50:36 2026] 127.0.0.1:61077 Accepted
+[Mon Aug 24 00:50:36 2026] 127.0.0.1:61077 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 00:50:36 2026] 127.0.0.1:61075 Closing
+[Mon Aug 24 00:50:36 2026] 127.0.0.1:61076 Closing
+[Mon Aug 24 00:50:36 2026] 127.0.0.1:61077 Closing
+[Mon Aug 24 00:59:38 2026] 127.0.0.1:62297 Accepted
+[Mon Aug 24 00:59:38 2026] 127.0.0.1:62297 [200]: GET /main.dart.js?screen=2
+[Mon Aug 24 00:59:38 2026] 127.0.0.1:62297 Closing
+[Mon Aug 24 00:59:57 2026] 127.0.0.1:62346 Accepted
+[Mon Aug 24 00:59:57 2026] 127.0.0.1:62346 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 00:59:57 2026] 127.0.0.1:62346 Closing
+[Mon Aug 24 00:59:57 2026] 127.0.0.1:62348 Accepted
+[Mon Aug 24 00:59:57 2026] 127.0.0.1:62348 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 00:59:57 2026] 127.0.0.1:62348 Closing
+[Mon Aug 24 01:00:05 2026] 127.0.0.1:62366 Accepted
+[Mon Aug 24 01:00:05 2026] 127.0.0.1:62366 [200]: GET /
+[Mon Aug 24 01:00:05 2026] 127.0.0.1:62366 Closing
+[Mon Aug 24 01:00:05 2026] 127.0.0.1:62367 Accepted
+[Mon Aug 24 01:00:05 2026] 127.0.0.1:62367 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 01:00:05 2026] 127.0.0.1:62367 Closing
+[Mon Aug 24 01:00:05 2026] 127.0.0.1:62368 Accepted
+[Mon Aug 24 01:00:05 2026] 127.0.0.1:62368 [200]: GET /manifest.json
+[Mon Aug 24 01:00:05 2026] 127.0.0.1:62368 Closing
+[Mon Aug 24 01:00:05 2026] 127.0.0.1:62369 Accepted
+[Mon Aug 24 01:00:05 2026] 127.0.0.1:62369 [200]: GET /main.dart.js
+[Mon Aug 24 01:00:05 2026] 127.0.0.1:62369 Closing
+[Mon Aug 24 01:00:06 2026] 127.0.0.1:62370 Accepted
+[Mon Aug 24 01:00:06 2026] 127.0.0.1:62370 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 01:00:06 2026] 127.0.0.1:62370 Closing
+[Mon Aug 24 01:00:06 2026] 127.0.0.1:62371 Accepted
+[Mon Aug 24 01:00:06 2026] 127.0.0.1:62371 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 01:00:06 2026] 127.0.0.1:62371 Closing
+[Mon Aug 24 01:00:06 2026] 127.0.0.1:62374 Accepted
+[Mon Aug 24 01:00:06 2026] 127.0.0.1:62374 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 01:00:06 2026] 127.0.0.1:62374 Closing
+[Mon Aug 24 01:00:07 2026] 127.0.0.1:62377 Accepted
+[Mon Aug 24 01:00:07 2026] 127.0.0.1:62377 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 01:00:07 2026] 127.0.0.1:62377 Closing
+[Mon Aug 24 01:00:07 2026] 127.0.0.1:62378 Accepted
+[Mon Aug 24 01:00:07 2026] 127.0.0.1:62378 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 01:00:07 2026] 127.0.0.1:62379 Accepted
+[Mon Aug 24 01:00:07 2026] 127.0.0.1:62379 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 01:00:07 2026] 127.0.0.1:62380 Accepted
+[Mon Aug 24 01:00:07 2026] 127.0.0.1:62380 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 01:00:07 2026] 127.0.0.1:62378 Closing
+[Mon Aug 24 01:00:07 2026] 127.0.0.1:62379 Closing
+[Mon Aug 24 01:00:07 2026] 127.0.0.1:62380 Closing
+[Mon Aug 24 01:00:54 2026] 127.0.0.1:62496 Accepted
+[Mon Aug 24 01:00:54 2026] 127.0.0.1:62496 [200]: GET /
+[Mon Aug 24 01:00:54 2026] 127.0.0.1:62496 Closing
+[Mon Aug 24 01:00:54 2026] 127.0.0.1:62497 Accepted
+[Mon Aug 24 01:00:54 2026] 127.0.0.1:62498 Accepted
+[Mon Aug 24 01:00:54 2026] 127.0.0.1:62497 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 01:00:54 2026] 127.0.0.1:62498 [200]: GET /manifest.json
+[Mon Aug 24 01:00:54 2026] 127.0.0.1:62497 Closing
+[Mon Aug 24 01:00:54 2026] 127.0.0.1:62498 Closing
+[Mon Aug 24 01:00:54 2026] 127.0.0.1:62499 Accepted
+[Mon Aug 24 01:00:54 2026] 127.0.0.1:62499 [200]: GET /main.dart.js
+[Mon Aug 24 01:00:54 2026] 127.0.0.1:62499 Closing
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62501 Accepted
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62501 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62501 Closing
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62502 Accepted
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62502 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62502 Closing
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62505 Accepted
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62505 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62505 Closing
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62506 Accepted
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62506 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62506 Closing
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62507 Accepted
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62508 Accepted
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62507 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62508 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62509 Accepted
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62509 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62507 Closing
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62508 Closing
+[Mon Aug 24 01:00:55 2026] 127.0.0.1:62509 Closing
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62946 Accepted
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62946 [200]: GET /
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62946 Closing
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62947 Accepted
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62947 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62947 Closing
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62948 Accepted
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62948 [200]: GET /manifest.json
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62948 Closing
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62949 Accepted
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62949 [200]: GET /main.dart.js
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62949 Closing
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62953 Accepted
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62953 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62953 Closing
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62954 Accepted
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62954 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 01:04:10 2026] 127.0.0.1:62954 Closing
+[Mon Aug 24 01:04:11 2026] 127.0.0.1:62956 Accepted
+[Mon Aug 24 01:04:11 2026] 127.0.0.1:62956 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 01:04:11 2026] 127.0.0.1:62956 Closing
+[Mon Aug 24 01:04:11 2026] 127.0.0.1:62958 Accepted
+[Mon Aug 24 01:04:11 2026] 127.0.0.1:62959 Accepted
+[Mon Aug 24 01:04:11 2026] 127.0.0.1:62958 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 01:04:11 2026] 127.0.0.1:62960 Accepted
+[Mon Aug 24 01:04:11 2026] 127.0.0.1:62959 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 01:04:11 2026] 127.0.0.1:62961 Accepted
+[Mon Aug 24 01:04:11 2026] 127.0.0.1:62960 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 01:04:11 2026] 127.0.0.1:62961 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 01:04:11 2026] 127.0.0.1:62958 Closing
+[Mon Aug 24 01:04:11 2026] 127.0.0.1:62959 Closing
+[Mon Aug 24 01:04:11 2026] 127.0.0.1:62960 Closing
+[Mon Aug 24 01:04:11 2026] 127.0.0.1:62961 Closing
+[Mon Aug 24 01:06:51 2026] 127.0.0.1:63332 Accepted
+[Mon Aug 24 01:06:51 2026] 127.0.0.1:63332 [200]: GET /
+[Mon Aug 24 01:06:51 2026] 127.0.0.1:63332 Closing
+[Mon Aug 24 01:06:51 2026] 127.0.0.1:63333 Accepted
+[Mon Aug 24 01:06:51 2026] 127.0.0.1:63333 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 01:06:51 2026] 127.0.0.1:63333 Closing
+[Mon Aug 24 01:06:51 2026] 127.0.0.1:63334 Accepted
+[Mon Aug 24 01:06:51 2026] 127.0.0.1:63334 [200]: GET /manifest.json
+[Mon Aug 24 01:06:51 2026] 127.0.0.1:63334 Closing
+[Mon Aug 24 01:06:51 2026] 127.0.0.1:63335 Accepted
+[Mon Aug 24 01:06:51 2026] 127.0.0.1:63335 [200]: GET /main.dart.js
+[Mon Aug 24 01:06:51 2026] 127.0.0.1:63335 Closing
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63337 Accepted
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63337 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63337 Closing
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63338 Accepted
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63338 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63338 Closing
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63340 Accepted
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63340 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63340 Closing
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63341 Accepted
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63341 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63341 Closing
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63343 Accepted
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63343 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63344 Accepted
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63345 Accepted
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63344 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63345 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63343 Closing
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63344 Closing
+[Mon Aug 24 01:06:52 2026] 127.0.0.1:63345 Closing
+[Mon Aug 24 01:44:06 2026] 127.0.0.1:51914 Accepted
+[Mon Aug 24 01:44:06 2026] 127.0.0.1:51914 [200]: GET /
+[Mon Aug 24 01:44:06 2026] 127.0.0.1:51914 Closing
+[Mon Aug 24 01:44:06 2026] 127.0.0.1:51915 Accepted
+[Mon Aug 24 01:44:06 2026] 127.0.0.1:51915 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 01:44:06 2026] 127.0.0.1:51915 Closing
+[Mon Aug 24 01:44:06 2026] 127.0.0.1:51916 Accepted
+[Mon Aug 24 01:44:06 2026] 127.0.0.1:51916 [200]: GET /main.dart.js
+[Mon Aug 24 01:44:06 2026] 127.0.0.1:51916 Closing
+[Mon Aug 24 01:44:06 2026] 127.0.0.1:51918 Accepted
+[Mon Aug 24 01:44:06 2026] 127.0.0.1:51918 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 01:44:06 2026] 127.0.0.1:51918 Closing
+[Mon Aug 24 01:44:06 2026] 127.0.0.1:51919 Accepted
+[Mon Aug 24 01:44:06 2026] 127.0.0.1:51919 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 01:44:06 2026] 127.0.0.1:51919 Closing
+[Mon Aug 24 01:44:07 2026] 127.0.0.1:51921 Accepted
+[Mon Aug 24 01:44:07 2026] 127.0.0.1:51921 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 01:44:07 2026] 127.0.0.1:51921 Closing
+[Mon Aug 24 01:44:07 2026] 127.0.0.1:51924 Accepted
+[Mon Aug 24 01:44:07 2026] 127.0.0.1:51924 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 01:44:07 2026] 127.0.0.1:51924 Closing
+[Mon Aug 24 01:44:07 2026] 127.0.0.1:51925 Accepted
+[Mon Aug 24 01:44:07 2026] 127.0.0.1:51926 Accepted
+[Mon Aug 24 01:44:07 2026] 127.0.0.1:51927 Accepted
+[Mon Aug 24 01:44:07 2026] 127.0.0.1:51925 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 01:44:07 2026] 127.0.0.1:51926 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 01:44:07 2026] 127.0.0.1:51927 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 01:44:07 2026] 127.0.0.1:51926 Closing
+[Mon Aug 24 01:44:07 2026] 127.0.0.1:51925 Closing
+[Mon Aug 24 01:44:07 2026] 127.0.0.1:51927 Closing
+[Mon Aug 24 01:45:03 2026] 127.0.0.1:52059 Accepted
+[Mon Aug 24 01:45:03 2026] 127.0.0.1:52059 [200]: GET /
+[Mon Aug 24 01:45:03 2026] 127.0.0.1:52059 Closing
+[Mon Aug 24 01:45:03 2026] 127.0.0.1:52060 Accepted
+[Mon Aug 24 01:45:03 2026] 127.0.0.1:52060 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 01:45:03 2026] 127.0.0.1:52060 Closing
+[Mon Aug 24 01:45:03 2026] 127.0.0.1:52061 Accepted
+[Mon Aug 24 01:45:03 2026] 127.0.0.1:52061 [200]: GET /manifest.json
+[Mon Aug 24 01:45:03 2026] 127.0.0.1:52061 Closing
+[Mon Aug 24 01:45:03 2026] 127.0.0.1:52062 Accepted
+[Mon Aug 24 01:45:03 2026] 127.0.0.1:52062 [200]: GET /main.dart.js
+[Mon Aug 24 01:45:03 2026] 127.0.0.1:52062 Closing
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52065 Accepted
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52065 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52065 Closing
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52066 Accepted
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52066 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52066 Closing
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52068 Accepted
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52068 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52068 Closing
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52070 Accepted
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52070 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52070 Closing
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52071 Accepted
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52071 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52072 Accepted
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52073 Accepted
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52072 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52073 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52071 Closing
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52072 Closing
+[Mon Aug 24 01:45:04 2026] 127.0.0.1:52073 Closing
+[Mon Aug 24 01:50:24 2026] 127.0.0.1:52792 Accepted
+[Mon Aug 24 01:50:24 2026] 127.0.0.1:52792 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 01:50:24 2026] 127.0.0.1:52792 Closing
+[Mon Aug 24 01:50:24 2026] 127.0.0.1:52794 Accepted
+[Mon Aug 24 01:50:24 2026] 127.0.0.1:52794 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 01:50:24 2026] 127.0.0.1:52794 Closing
+[Mon Aug 24 01:53:08 2026] 127.0.0.1:53153 Accepted
+[Mon Aug 24 01:53:08 2026] 127.0.0.1:53153 [200]: GET /
+[Mon Aug 24 01:53:08 2026] 127.0.0.1:53153 Closing
+[Mon Aug 24 01:53:21 2026] 127.0.0.1:53190 Accepted
+[Mon Aug 24 01:53:21 2026] 127.0.0.1:53190 [200]: GET /
+[Mon Aug 24 01:53:21 2026] 127.0.0.1:53190 Closing
+[Mon Aug 24 01:53:21 2026] 127.0.0.1:53191 Accepted
+[Mon Aug 24 01:53:21 2026] 127.0.0.1:53192 Accepted
+[Mon Aug 24 01:53:21 2026] 127.0.0.1:53191 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 01:53:21 2026] 127.0.0.1:53192 [200]: GET /manifest.json
+[Mon Aug 24 01:53:21 2026] 127.0.0.1:53191 Closing
+[Mon Aug 24 01:53:21 2026] 127.0.0.1:53192 Closing
+[Mon Aug 24 01:53:21 2026] 127.0.0.1:53194 Accepted
+[Mon Aug 24 01:53:21 2026] 127.0.0.1:53194 [200]: GET /main.dart.js
+[Mon Aug 24 01:53:21 2026] 127.0.0.1:53194 Closing
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53195 Accepted
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53195 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53195 Closing
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53196 Accepted
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53196 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53196 Closing
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53198 Accepted
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53198 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53198 Closing
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53202 Accepted
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53202 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53202 Closing
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53203 Accepted
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53203 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53204 Accepted
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53205 Accepted
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53204 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53205 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53203 Closing
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53204 Closing
+[Mon Aug 24 01:53:22 2026] 127.0.0.1:53205 Closing
+[Mon Aug 24 01:56:58 2026] 127.0.0.1:53684 Accepted
+[Mon Aug 24 01:56:58 2026] 127.0.0.1:53684 [200]: GET /
+[Mon Aug 24 01:56:58 2026] 127.0.0.1:53684 Closing
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53835 Accepted
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53835 [200]: GET /
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53835 Closing
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53836 Accepted
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53836 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53836 Closing
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53837 Accepted
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53837 [200]: GET /manifest.json
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53837 Closing
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53838 Accepted
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53838 [200]: GET /main.dart.js
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53838 Closing
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53839 Accepted
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53839 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53839 Closing
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53840 Accepted
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53840 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53840 Closing
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53842 Accepted
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53842 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 01:58:06 2026] 127.0.0.1:53842 Closing
+[Mon Aug 24 01:58:07 2026] 127.0.0.1:53844 Accepted
+[Mon Aug 24 01:58:07 2026] 127.0.0.1:53844 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 01:58:07 2026] 127.0.0.1:53844 Closing
+[Mon Aug 24 01:58:07 2026] 127.0.0.1:53845 Accepted
+[Mon Aug 24 01:58:07 2026] 127.0.0.1:53846 Accepted
+[Mon Aug 24 01:58:07 2026] 127.0.0.1:53847 Accepted
+[Mon Aug 24 01:58:07 2026] 127.0.0.1:53845 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 01:58:07 2026] 127.0.0.1:53846 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 01:58:07 2026] 127.0.0.1:53847 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 01:58:07 2026] 127.0.0.1:53846 Closing
+[Mon Aug 24 01:58:07 2026] 127.0.0.1:53845 Closing
+[Mon Aug 24 01:58:07 2026] 127.0.0.1:53847 Closing
+[Mon Aug 24 01:58:13 2026] 127.0.0.1:53864 Accepted
+[Mon Aug 24 01:58:13 2026] 127.0.0.1:53864 [200]: GET /
+[Mon Aug 24 01:58:13 2026] 127.0.0.1:53864 Closing
+[Mon Aug 24 01:58:13 2026] 127.0.0.1:53865 Accepted
+[Mon Aug 24 01:58:13 2026] 127.0.0.1:53865 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 01:58:13 2026] 127.0.0.1:53865 Closing
+[Mon Aug 24 01:58:13 2026] 127.0.0.1:53866 Accepted
+[Mon Aug 24 01:58:13 2026] 127.0.0.1:53866 [200]: GET /manifest.json
+[Mon Aug 24 01:58:13 2026] 127.0.0.1:53866 Closing
+[Mon Aug 24 01:58:13 2026] 127.0.0.1:53867 Accepted
+[Mon Aug 24 01:58:13 2026] 127.0.0.1:53867 [200]: GET /main.dart.js
+[Mon Aug 24 01:58:13 2026] 127.0.0.1:53867 Closing
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53869 Accepted
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53869 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53869 Closing
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53870 Accepted
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53870 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53870 Closing
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53872 Accepted
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53872 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53872 Closing
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53873 Accepted
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53873 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53873 Closing
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53874 Accepted
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53874 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53874 Closing
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53875 Accepted
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53875 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53875 Closing
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53876 Accepted
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53876 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 01:58:14 2026] 127.0.0.1:53876 Closing
+[Mon Aug 24 02:04:14 2026] 127.0.0.1:54755 Accepted
+[Mon Aug 24 02:04:14 2026] 127.0.0.1:54755 [200]: GET /
+[Mon Aug 24 02:04:14 2026] 127.0.0.1:54755 Closing
+[Mon Aug 24 02:04:41 2026] 127.0.0.1:54825 Accepted
+[Mon Aug 24 02:04:41 2026] 127.0.0.1:54825 [200]: GET /
+[Mon Aug 24 02:04:41 2026] 127.0.0.1:54825 Closing
+[Mon Aug 24 02:04:41 2026] 127.0.0.1:54826 Accepted
+[Mon Aug 24 02:04:41 2026] 127.0.0.1:54826 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 02:04:41 2026] 127.0.0.1:54826 Closing
+[Mon Aug 24 02:04:41 2026] 127.0.0.1:54827 Accepted
+[Mon Aug 24 02:04:41 2026] 127.0.0.1:54827 [200]: GET /manifest.json
+[Mon Aug 24 02:04:41 2026] 127.0.0.1:54827 Closing
+[Mon Aug 24 02:04:41 2026] 127.0.0.1:54828 Accepted
+[Mon Aug 24 02:04:41 2026] 127.0.0.1:54828 [200]: GET /main.dart.js
+[Mon Aug 24 02:04:41 2026] 127.0.0.1:54828 Closing
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54830 Accepted
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54830 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54830 Closing
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54831 Accepted
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54831 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54831 Closing
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54833 Accepted
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54833 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54833 Closing
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54837 Accepted
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54837 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54837 Closing
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54838 Accepted
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54838 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54839 Accepted
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54839 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54840 Accepted
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54840 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54838 Closing
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54839 Closing
+[Mon Aug 24 02:04:42 2026] 127.0.0.1:54840 Closing
+[Mon Aug 24 02:06:07 2026] 127.0.0.1:55025 Accepted
+[Mon Aug 24 02:06:07 2026] 127.0.0.1:55025 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 02:06:07 2026] 127.0.0.1:55025 Closing
+[Mon Aug 24 02:56:23 2026] 127.0.0.1:61751 Accepted
+[Mon Aug 24 02:56:23 2026] 127.0.0.1:61751 [404]: POST /api.php?resource=mobile-login - No such file or directory
+[Mon Aug 24 02:56:23 2026] 127.0.0.1:61751 Closing
+[Mon Aug 24 02:56:23 2026] 127.0.0.1:61753 Accepted
+[Mon Aug 24 02:56:23 2026] 127.0.0.1:61753 [404]: POST /api.php?resource=mobile-login - No such file or directory
+[Mon Aug 24 02:56:23 2026] 127.0.0.1:61753 Closing
+[Mon Aug 24 02:56:23 2026] 127.0.0.1:61754 Accepted
+[Mon Aug 24 02:56:24 2026] 127.0.0.1:61754 [404]: POST /api.php?resource=mobile-login - No such file or directory
+[Mon Aug 24 02:56:24 2026] 127.0.0.1:61754 Closing
+[Mon Aug 24 02:56:24 2026] 127.0.0.1:61755 Accepted
+[Mon Aug 24 02:56:24 2026] 127.0.0.1:61755 [404]: POST /api.php?resource=mobile-login - No such file or directory
+[Mon Aug 24 02:56:24 2026] 127.0.0.1:61755 Closing
+[Mon Aug 24 02:57:03 2026] 127.0.0.1:61856 Accepted
+[Mon Aug 24 02:57:03 2026] 127.0.0.1:61856 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 02:57:03 2026] 127.0.0.1:61856 Closing
+[Mon Aug 24 02:57:03 2026] 127.0.0.1:61857 Accepted
+[Mon Aug 24 02:57:03 2026] 127.0.0.1:61857 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 02:57:03 2026] 127.0.0.1:61857 Closing
+[Mon Aug 24 02:57:14 2026] 127.0.0.1:61893 Accepted
+[Mon Aug 24 02:57:14 2026] 127.0.0.1:61893 [200]: GET /
+[Mon Aug 24 02:57:14 2026] 127.0.0.1:61893 Closing
+[Mon Aug 24 02:57:14 2026] 127.0.0.1:61894 Accepted
+[Mon Aug 24 02:57:14 2026] 127.0.0.1:61895 Accepted
+[Mon Aug 24 02:57:14 2026] 127.0.0.1:61895 [200]: GET /manifest.json
+[Mon Aug 24 02:57:14 2026] 127.0.0.1:61894 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 02:57:14 2026] 127.0.0.1:61895 Closing
+[Mon Aug 24 02:57:14 2026] 127.0.0.1:61894 Closing
+[Mon Aug 24 02:57:14 2026] 127.0.0.1:61896 Accepted
+[Mon Aug 24 02:57:14 2026] 127.0.0.1:61896 [200]: GET /main.dart.js
+[Mon Aug 24 02:57:14 2026] 127.0.0.1:61896 Closing
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61899 Accepted
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61899 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61899 Closing
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61900 Accepted
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61900 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61900 Closing
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61902 Accepted
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61902 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61902 Closing
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61903 Accepted
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61903 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61903 Closing
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61904 Accepted
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61904 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61904 Closing
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61905 Accepted
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61905 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61905 Closing
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61906 Accepted
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61906 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 02:57:15 2026] 127.0.0.1:61906 Closing
+[Mon Aug 24 03:00:14 2026] 127.0.0.1:62348 Accepted
+[Mon Aug 24 03:00:14 2026] 127.0.0.1:62348 [200]: GET /
+[Mon Aug 24 03:00:14 2026] 127.0.0.1:62348 Closing
+[Mon Aug 24 03:00:14 2026] 127.0.0.1:62349 Accepted
+[Mon Aug 24 03:00:14 2026] 127.0.0.1:62349 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 03:00:14 2026] 127.0.0.1:62349 Closing
+[Mon Aug 24 03:00:14 2026] 127.0.0.1:62350 Accepted
+[Mon Aug 24 03:00:14 2026] 127.0.0.1:62350 [200]: GET /manifest.json
+[Mon Aug 24 03:00:14 2026] 127.0.0.1:62350 Closing
+[Mon Aug 24 03:00:14 2026] 127.0.0.1:62351 Accepted
+[Mon Aug 24 03:00:14 2026] 127.0.0.1:62351 [200]: GET /main.dart.js
+[Mon Aug 24 03:00:14 2026] 127.0.0.1:62351 Closing
+[Mon Aug 24 03:00:15 2026] 127.0.0.1:62353 Accepted
+[Mon Aug 24 03:00:15 2026] 127.0.0.1:62353 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 03:00:15 2026] 127.0.0.1:62353 Closing
+[Mon Aug 24 03:00:15 2026] 127.0.0.1:62354 Accepted
+[Mon Aug 24 03:00:15 2026] 127.0.0.1:62354 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 03:00:15 2026] 127.0.0.1:62354 Closing
+[Mon Aug 24 03:00:15 2026] 127.0.0.1:62356 Accepted
+[Mon Aug 24 03:00:15 2026] 127.0.0.1:62356 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 03:00:15 2026] 127.0.0.1:62356 Closing
+[Mon Aug 24 03:00:16 2026] 127.0.0.1:62357 Accepted
+[Mon Aug 24 03:00:16 2026] 127.0.0.1:62358 Accepted
+[Mon Aug 24 03:00:16 2026] 127.0.0.1:62359 Accepted
+[Mon Aug 24 03:00:16 2026] 127.0.0.1:62357 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 03:00:16 2026] 127.0.0.1:62358 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 03:00:16 2026] 127.0.0.1:62359 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 03:00:16 2026] 127.0.0.1:62360 Accepted
+[Mon Aug 24 03:00:16 2026] 127.0.0.1:62360 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 03:00:16 2026] 127.0.0.1:62357 Closing
+[Mon Aug 24 03:00:16 2026] 127.0.0.1:62358 Closing
+[Mon Aug 24 03:00:16 2026] 127.0.0.1:62359 Closing
+[Mon Aug 24 03:00:16 2026] 127.0.0.1:62360 Closing
+[Mon Aug 24 03:02:28 2026] 127.0.0.1:62704 Accepted
+[Mon Aug 24 03:02:28 2026] 127.0.0.1:62704 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 03:02:28 2026] 127.0.0.1:62704 Closing
+[Mon Aug 24 03:02:28 2026] 127.0.0.1:62705 Accepted
+[Mon Aug 24 03:02:28 2026] 127.0.0.1:62705 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 03:02:28 2026] 127.0.0.1:62705 Closing
+[Mon Aug 24 03:29:29 2026] 127.0.0.1:50250 Accepted
+[Mon Aug 24 03:29:29 2026] 127.0.0.1:50250 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 03:29:29 2026] 127.0.0.1:50250 Closing
+[Mon Aug 24 03:29:30 2026] 127.0.0.1:50255 Accepted
+[Mon Aug 24 03:29:30 2026] 127.0.0.1:50255 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 03:29:30 2026] 127.0.0.1:50255 Closing
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52983 Accepted
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52983 [200]: GET /
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52983 Closing
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52984 Accepted
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52985 Accepted
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52984 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52985 [200]: GET /manifest.json
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52984 Closing
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52985 Closing
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52986 Accepted
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52986 [200]: GET /main.dart.js
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52986 Closing
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52988 Accepted
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52988 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52988 Closing
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52989 Accepted
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52989 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 03:49:20 2026] 127.0.0.1:52989 Closing
+[Mon Aug 24 03:49:21 2026] 127.0.0.1:52991 Accepted
+[Mon Aug 24 03:49:21 2026] 127.0.0.1:52991 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 03:49:21 2026] 127.0.0.1:52991 Closing
+[Mon Aug 24 03:49:21 2026] 127.0.0.1:52992 Accepted
+[Mon Aug 24 03:49:21 2026] 127.0.0.1:52992 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 03:49:21 2026] 127.0.0.1:52992 Closing
+[Mon Aug 24 03:49:21 2026] 127.0.0.1:52993 Accepted
+[Mon Aug 24 03:49:21 2026] 127.0.0.1:52993 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 03:49:21 2026] 127.0.0.1:52994 Accepted
+[Mon Aug 24 03:49:21 2026] 127.0.0.1:52994 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 03:49:21 2026] 127.0.0.1:52995 Accepted
+[Mon Aug 24 03:49:21 2026] 127.0.0.1:52995 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 03:49:21 2026] 127.0.0.1:52993 Closing
+[Mon Aug 24 03:49:21 2026] 127.0.0.1:52994 Closing
+[Mon Aug 24 03:49:21 2026] 127.0.0.1:52995 Closing
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53012 Accepted
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53012 [200]: GET /
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53012 Closing
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53013 Accepted
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53014 Accepted
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53013 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53014 [200]: GET /manifest.json
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53013 Closing
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53014 Closing
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53015 Accepted
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53015 [200]: GET /main.dart.js
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53015 Closing
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53016 Accepted
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53016 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53016 Closing
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53017 Accepted
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53017 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53017 Closing
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53020 Accepted
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53020 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 03:49:28 2026] 127.0.0.1:53020 Closing
+[Mon Aug 24 03:49:29 2026] 127.0.0.1:53021 Accepted
+[Mon Aug 24 03:49:29 2026] 127.0.0.1:53021 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 03:49:29 2026] 127.0.0.1:53021 Closing
+[Mon Aug 24 03:49:29 2026] 127.0.0.1:53022 Accepted
+[Mon Aug 24 03:49:29 2026] 127.0.0.1:53023 Accepted
+[Mon Aug 24 03:49:29 2026] 127.0.0.1:53022 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 03:49:29 2026] 127.0.0.1:53024 Accepted
+[Mon Aug 24 03:49:29 2026] 127.0.0.1:53023 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 03:49:29 2026] 127.0.0.1:53024 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 03:49:29 2026] 127.0.0.1:53022 Closing
+[Mon Aug 24 03:49:29 2026] 127.0.0.1:53023 Closing
+[Mon Aug 24 03:49:29 2026] 127.0.0.1:53024 Closing
+[Mon Aug 24 07:34:20 2026] 127.0.0.1:63217 Accepted
+[Mon Aug 24 07:34:20 2026] 127.0.0.1:63217 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 07:34:20 2026] 127.0.0.1:63217 Closing
+[Mon Aug 24 07:34:20 2026] 127.0.0.1:63218 Accepted
+[Mon Aug 24 07:34:20 2026] 127.0.0.1:63218 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 07:34:20 2026] 127.0.0.1:63218 Closing
+[Mon Aug 24 07:57:30 2026] 127.0.0.1:50126 Accepted
+[Mon Aug 24 07:57:30 2026] 127.0.0.1:50126 [200]: GET /
+[Mon Aug 24 07:57:30 2026] 127.0.0.1:50126 Closing
+[Mon Aug 24 07:57:31 2026] 127.0.0.1:50127 Accepted
+[Mon Aug 24 07:57:31 2026] 127.0.0.1:50127 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 07:57:31 2026] 127.0.0.1:50127 Closing
+[Mon Aug 24 07:57:31 2026] 127.0.0.1:50128 Accepted
+[Mon Aug 24 07:57:31 2026] 127.0.0.1:50128 [200]: GET /manifest.json
+[Mon Aug 24 07:57:31 2026] 127.0.0.1:50128 Closing
+[Mon Aug 24 07:57:31 2026] 127.0.0.1:50129 Accepted
+[Mon Aug 24 07:57:31 2026] 127.0.0.1:50129 [200]: GET /main.dart.js
+[Mon Aug 24 07:57:31 2026] 127.0.0.1:50129 Closing
+[Mon Aug 24 07:57:31 2026] 127.0.0.1:50131 Accepted
+[Mon Aug 24 07:57:31 2026] 127.0.0.1:50131 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 07:57:31 2026] 127.0.0.1:50131 Closing
+[Mon Aug 24 07:57:31 2026] 127.0.0.1:50132 Accepted
+[Mon Aug 24 07:57:31 2026] 127.0.0.1:50132 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 07:57:31 2026] 127.0.0.1:50132 Closing
+[Mon Aug 24 07:57:32 2026] 127.0.0.1:50135 Accepted
+[Mon Aug 24 07:57:32 2026] 127.0.0.1:50135 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 07:57:32 2026] 127.0.0.1:50135 Closing
+[Mon Aug 24 07:57:32 2026] 127.0.0.1:50136 Accepted
+[Mon Aug 24 07:57:32 2026] 127.0.0.1:50136 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 07:57:32 2026] 127.0.0.1:50136 Closing
+[Mon Aug 24 07:57:32 2026] 127.0.0.1:50137 Accepted
+[Mon Aug 24 07:57:32 2026] 127.0.0.1:50137 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 07:57:32 2026] 127.0.0.1:50138 Accepted
+[Mon Aug 24 07:57:32 2026] 127.0.0.1:50139 Accepted
+[Mon Aug 24 07:57:32 2026] 127.0.0.1:50138 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 07:57:32 2026] 127.0.0.1:50139 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 07:57:32 2026] 127.0.0.1:50137 Closing
+[Mon Aug 24 07:57:32 2026] 127.0.0.1:50138 Closing
+[Mon Aug 24 07:57:32 2026] 127.0.0.1:50139 Closing
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50184 Accepted
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50184 [200]: GET /
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50184 Closing
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50185 Accepted
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50185 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50186 Accepted
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50186 [200]: GET /manifest.json
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50185 Closing
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50186 Closing
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50187 Accepted
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50187 [200]: GET /main.dart.js
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50187 Closing
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50189 Accepted
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50189 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50189 Closing
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50190 Accepted
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50190 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 07:57:51 2026] 127.0.0.1:50190 Closing
+[Mon Aug 24 07:57:52 2026] 127.0.0.1:50193 Accepted
+[Mon Aug 24 07:57:52 2026] 127.0.0.1:50193 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 07:57:52 2026] 127.0.0.1:50193 Closing
+[Mon Aug 24 07:57:52 2026] 127.0.0.1:50194 Accepted
+[Mon Aug 24 07:57:52 2026] 127.0.0.1:50196 Accepted
+[Mon Aug 24 07:57:52 2026] 127.0.0.1:50198 Accepted
+[Mon Aug 24 07:57:52 2026] 127.0.0.1:50199 Accepted
+[Mon Aug 24 07:57:52 2026] 127.0.0.1:50194 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 07:57:52 2026] 127.0.0.1:50196 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 07:57:52 2026] 127.0.0.1:50198 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 07:57:52 2026] 127.0.0.1:50199 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 07:57:52 2026] 127.0.0.1:50194 Closing
+[Mon Aug 24 07:57:52 2026] 127.0.0.1:50196 Closing
+[Mon Aug 24 07:57:52 2026] 127.0.0.1:50198 Closing
+[Mon Aug 24 07:57:52 2026] 127.0.0.1:50199 Closing
+[Mon Aug 24 08:01:07 2026] 127.0.0.1:50650 Accepted
+[Mon Aug 24 08:01:07 2026] 127.0.0.1:50650 [200]: GET /
+[Mon Aug 24 08:01:07 2026] 127.0.0.1:50650 Closing
+[Mon Aug 24 08:01:07 2026] 127.0.0.1:50651 Accepted
+[Mon Aug 24 08:01:07 2026] 127.0.0.1:50651 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 08:01:07 2026] 127.0.0.1:50651 Closing
+[Mon Aug 24 08:01:07 2026] 127.0.0.1:50652 Accepted
+[Mon Aug 24 08:01:07 2026] 127.0.0.1:50652 [200]: GET /manifest.json
+[Mon Aug 24 08:01:07 2026] 127.0.0.1:50652 Closing
+[Mon Aug 24 08:01:07 2026] 127.0.0.1:50653 Accepted
+[Mon Aug 24 08:01:07 2026] 127.0.0.1:50653 [200]: GET /main.dart.js
+[Mon Aug 24 08:01:07 2026] 127.0.0.1:50653 Closing
+[Mon Aug 24 08:01:08 2026] 127.0.0.1:50657 Accepted
+[Mon Aug 24 08:01:08 2026] 127.0.0.1:50657 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 08:01:08 2026] 127.0.0.1:50657 Closing
+[Mon Aug 24 08:01:08 2026] 127.0.0.1:50658 Accepted
+[Mon Aug 24 08:01:08 2026] 127.0.0.1:50658 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 08:01:08 2026] 127.0.0.1:50658 Closing
+[Mon Aug 24 08:01:08 2026] 127.0.0.1:50661 Accepted
+[Mon Aug 24 08:01:08 2026] 127.0.0.1:50661 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 08:01:08 2026] 127.0.0.1:50661 Closing
+[Mon Aug 24 08:01:09 2026] 127.0.0.1:50663 Accepted
+[Mon Aug 24 08:01:09 2026] 127.0.0.1:50663 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 08:01:09 2026] 127.0.0.1:50663 Closing
+[Mon Aug 24 08:01:09 2026] 127.0.0.1:50664 Accepted
+[Mon Aug 24 08:01:09 2026] 127.0.0.1:50664 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 08:01:09 2026] 127.0.0.1:50665 Accepted
+[Mon Aug 24 08:01:09 2026] 127.0.0.1:50665 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 08:01:09 2026] 127.0.0.1:50666 Accepted
+[Mon Aug 24 08:01:09 2026] 127.0.0.1:50666 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 08:01:09 2026] 127.0.0.1:50664 Closing
+[Mon Aug 24 08:01:09 2026] 127.0.0.1:50665 Closing
+[Mon Aug 24 08:01:09 2026] 127.0.0.1:50666 Closing
+[Mon Aug 24 08:01:16 2026] 127.0.0.1:50686 Accepted
+[Mon Aug 24 08:01:16 2026] 127.0.0.1:50686 [200]: GET /
+[Mon Aug 24 08:01:16 2026] 127.0.0.1:50686 Closing
+[Mon Aug 24 08:01:16 2026] 127.0.0.1:50687 Accepted
+[Mon Aug 24 08:01:16 2026] 127.0.0.1:50687 [200]: GET /flutter_bootstrap.js
+[Mon Aug 24 08:01:16 2026] 127.0.0.1:50687 Closing
+[Mon Aug 24 08:01:16 2026] 127.0.0.1:50688 Accepted
+[Mon Aug 24 08:01:16 2026] 127.0.0.1:50688 [200]: GET /main.dart.js
+[Mon Aug 24 08:01:16 2026] 127.0.0.1:50688 Closing
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50690 Accepted
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50690 [200]: GET /assets/FontManifest.json
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50690 Closing
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50691 Accepted
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50691 [200]: GET /assets/fonts/MaterialIcons-Regular.otf
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50691 Closing
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50693 Accepted
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50693 [200]: GET /assets/AssetManifest.bin.json
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50693 Closing
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50694 Accepted
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50695 Accepted
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50696 Accepted
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50697 Accepted
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50697 [200]: GET /assets/assets/generated-navigation-icons.png
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50695 [200]: GET /assets/assets/welcome-back.png
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50696 [200]: GET /assets/assets/student-avatar.png
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50694 [200]: GET /assets/assets/education-tools-background.png
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50697 Closing
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50695 Closing
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50696 Closing
+[Mon Aug 24 08:01:17 2026] 127.0.0.1:50694 Closing

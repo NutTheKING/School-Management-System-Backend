@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#147c77">
+  <title>Sombat Sok — Student Home</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="phone-shell">
+    <header class="hero">
+      <div class="hero__shade"></div>
+      <div class="topbar">
+        <button class="icon-btn menu" aria-label="Open menu"><span></span><span></span><span></span></button>
+        <div class="school-brand">
+          <div class="school-mark">S</div>
+          <div><strong>GRANDVIEW SCHOOL</strong><small>International School</small></div>
+        </div>
+        <button class="avatar" aria-label="Open profile">JS</button>
+      </div>
+      <div class="welcome">
+        <p>Welcome to</p>
+        <h1>Sombat Sok</h1>
+        <span>Here is your dashboard</span>
+      </div>
+    </header>
+
+    <section class="carousel" aria-label="School announcements">
+      <div class="slides">
+        <article class="slide active"><img src="assets/welcome-back.png" alt="Welcome back to school"></article>
+        <article class="slide alt-slide"><span>📚</span><div><strong>Keep learning!</strong><small>Your next lesson is waiting.</small></div></article>
+        <article class="slide alt-slide warm"><span>🏆</span><div><strong>Great progress</strong><small>See your latest achievements.</small></div></article>
+      </div>
+      <div class="dots" aria-label="Choose announcement">
+        <button class="active" aria-label="Slide 1"></button><button aria-label="Slide 2"></button><button aria-label="Slide 3"></button>
+      </div>
+    </section>
+
+    <section class="quick-card">
+      <div class="section-title"><div><span>Student tools</span><h2>What do you need?</h2></div><button>View all</button></div>
+      <div class="feature-grid">
+        <button class="feature" data-label="Wallet"><i class="mint">👛</i><span>My Wallet</span></button>
+        <button class="feature" data-label="Profile"><i class="peach">🪪</i><span>My Profile</span></button>
+        <button class="feature" data-label="Homework"><i class="cream">📝</i><span>Homework</span></button>
+        <button class="feature" data-label="Attendance"><i class="green">🗓️</i><span>Attendance</span></button>
+        <button class="feature" data-label="Grades"><i class="blue">🏅</i><span>My Grades</span></button>
+        <button class="feature" data-label="Timetable"><i class="lavender">⏰</i><span>Timetable</span></button>
+        <button class="feature" data-label="Progress"><i class="yellow">📊</i><span>Progress</span></button>
+        <button class="feature" data-label="Gallery"><i class="aqua">🖼️</i><span>Gallery</span></button>
+        <button class="feature" data-label="Classes"><i class="pink">🧑‍🏫</i><span>My Classes</span></button>
+      </div>
+    </section>
+
+    <div class="toast" role="status" aria-live="polite"></div>
+
+    <nav class="bottom-nav" aria-label="Primary navigation">
+      <button class="selected"><i>▦</i><span>Home</span></button>
+      <button><i>♧</i><span>Notifications</span><b></b></button>
+      <button class="scan" aria-label="Scan student code"><i>⌗</i></button>
+      <button><i>▤</i><span>Messages</span></button>
+      <button><i>▣</i><span>Settings</span></button>
+    </nav>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+WG SYSTEM branding update
+- Application sidebar/logo is now fixed to assets/wg-logo.png.
+- Application name is WG SYSTEM.
+- General Settings school/company logo and school name remain separate.
+- Certificates, ID cards, schedules and other school documents continue to use General Settings.
+- WG logo was cloned from school_management_system_merged(5).zip > public/assets/images/wg-logo.png.
