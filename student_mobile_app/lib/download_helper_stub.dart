@@ -1,2 +1,0 @@
-void downloadAndroidApp() {}
-void installIosApp() {}

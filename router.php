@@ -1,22 +1,33 @@
 <?php
 declare(strict_types=1);
 
-$path = parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?: '/';
-$normalizedPath = strtolower(str_replace('\\', '/', rawurldecode($path)));
-if ($normalizedPath === '/storage' || str_starts_with($normalizedPath, '/storage/')) {
+$public = __DIR__ . '/public';
+$path = rawurldecode(parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH) ?: '/');
+if (str_contains($path, '\\') || str_contains($path, "\0") || preg_match('#(^|/)\.#', $path)) {
     http_response_code(404);
     exit;
 }
 
-if ($path === '/') {
-    require __DIR__ . '/index.php';
+if ($path === '/' || $path === '/index.php') {
+    require $public . '/index.php';
     exit;
 }
 
-$file = realpath(__DIR__ . $path);
-$root = rtrim(realpath(__DIR__) ?: __DIR__, DIRECTORY_SEPARATOR) . DIRECTORY_SEPARATOR;
-if ($file !== false && str_starts_with(strtolower($file), strtolower($root)) && is_file($file)) {
-    return false;
+if ($path === '/api.php') {
+    require $public . '/api.php';
+    exit;
+}
+$file = realpath($public . $path);
+$root = realpath($public) . DIRECTORY_SEPARATOR;
+$types = ['css'=>'text/css', 'js'=>'text/javascript', 'png'=>'image/png', 'jpg'=>'image/jpeg',
+    'jpeg'=>'image/jpeg', 'svg'=>'image/svg+xml', 'webp'=>'image/webp', 'ico'=>'image/x-icon',
+    'woff'=>'font/woff', 'woff2'=>'font/woff2', 'ttf'=>'font/ttf'];
+$extension = strtolower(pathinfo($path, PATHINFO_EXTENSION));
+if ($file && str_starts_with(strtolower($file), strtolower($root)) && is_file($file) && isset($types[$extension])) {
+    header('Content-Type: ' . $types[$extension]);
+    header('X-Content-Type-Options: nosniff');
+    readfile($file);
+    exit;
 }
 
 http_response_code(404);

@@ -1,0 +1,11 @@
+/.tools/
+/.artifacts/
+**/.idea/
+**/.vs/
+*.bak
+*.log
+/storage/*
+!/storage/.htaccess
+!/storage/.gitkeep
+.env
+**/__pycache__/

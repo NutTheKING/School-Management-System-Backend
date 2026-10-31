@@ -1,40 +1,87 @@
-# SC Smart School
+# School Management Backend
 
-A dependency-free PHP school management prototype reconstructed from the supplied SC Smart School workflow recording.
+PHP admin website and JSON API for a separately maintained mobile application. Flutter source and its build/dependency files have been removed from this repository.
 
-## Run
+## Run locally
 
-Use the bundled XAMPP PHP runtime from this directory:
+PHP is installed in `.tools/php/` with PDO SQLite and mbstring. No XAMPP, Composer packages or separate database server is required.
 
 ```powershell
-C:\xampp\php\php.exe -S 127.0.0.1:8010 router.php
+./scripts/start-api.ps1
+# For a phone on the same Wi-Fi:
+./scripts/start-api.ps1 -BindAddress 0.0.0.0
 ```
 
-Then open `http://127.0.0.1:8010/`. The router prevents direct web access to database and session files.
+Web admin: http://127.0.0.1:8010/
 
-Demo login:
+Health check: http://127.0.0.1:8010/api.php?resource=health
 
-- Email: `admin@scschool.local`
-- Password: `admin123`
+On another Windows machine, run `./scripts/install-php.ps1` first. This downloads the official PHP 8.5 build and checks its checksum. To stop the foreground server press Ctrl+C.
 
-## Included workflows
+## Connect a mobile application
 
-- Operational dashboard and activity overview
-- Admission inquiry pipeline with approval-to-enrollment conversion
-- Student directory with search, filters, create, edit, delete, and CSV export
-- Card-oriented daily attendance entry with manual adjustments
-- Tuition, material, transport, daycare, and other fee payment recording
-- Classes, subjects, weekly schedule, exams, and results
-- Staff/payroll, inventory, and transport registers
-- Leadership reports and school settings
-- Provider-neutral AI operations workspace with common school workflows
+| Client | API base URL |
+| --- | --- |
+| Android emulator | `http://10.0.2.2:8010/api.php` |
+| iOS simulator on the API host | `http://127.0.0.1:8010/api.php` |
+| Physical phone | `http://COMPUTER_LAN_IP:8010/api.php` |
 
-## Architecture
+Use the same local network for phone and computer. Bind to `0.0.0.0` for a phone; if Windows Firewall blocks the connection, allow TCP 8010 on the trusted private network. Never use `localhost` on the phone to reach this computer. Native apps must permit local HTTP during development; use HTTPS for deployment.
 
-PHP 8, PDO, and SQLite provide the server layer. The API initializes its schema and demo records on first run, uses prepared statements and database transactions, validates CSRF tokens, and stores sessions under the protected `storage` directory. The browser retains local storage only as an offline fallback.
+Every request uses `?resource=RESOURCE`. Send JSON with `Content-Type: application/json`.
 
-For production, add user authentication and role permissions, migrate SQLite to MySQL/PostgreSQL, and store uploaded files outside the public document root. AI requests should go through a server-side gateway that applies authorization, redaction, audit logging, and human review. Provider API keys must never be shipped to the browser.
+| Method | Resource | Input / authentication |
+| --- | --- | --- |
+| GET | `health` | None |
+| POST | `mobile-login` | `student_id`, `password` |
+| GET | `mobile-dashboard` | Bearer token |
+| POST | `mobile-change-password` | Bearer token, `current_password`, `new_password` (8+ characters) |
+| POST | `mobile-attendance-scan` | Bearer token, `payload` |
+| POST | `mobile-logout` | Bearer token |
 
-## Source limitations
+Login returns `token`, `expires_at` and `must_change_password`. Send the token using `Authorization: Bearer TOKEN`. Honor the password-change flag in the mobile application. Errors use an HTTP error status and a JSON `error` message.
 
-The video exposes screens and user flows, but not the original source code, database schema, validation rules, permissions, or external integrations. This build therefore recreates the observable product behavior as a working prototype; production parity requires those underlying specifications and APIs.
+```javascript
+const base = 'http://10.0.2.2:8010/api.php';
+const login = await fetch(`${base}?resource=mobile-login`, {
+  method: 'POST',
+  headers: {'Content-Type': 'application/json'},
+  body: JSON.stringify({student_id: 'ST-LOCAL-001', password: 'YOUR_PASSWORD'})
+});
+if (!login.ok) throw new Error((await login.json()).error);
+const {token} = await login.json();
+const dashboard = await fetch(`${base}?resource=mobile-dashboard`, {
+  headers: {Authorization: `Bearer ${token}`}
+});
+```
+
+Browser clients are allowed from localhost or the exact `MOBILE_APP_ORIGIN` environment value. Native mobile apps do not require CORS.
+
+## Login accounts
+
+The local setup created web user `local_admin` and mobile student `ST-LOCAL-001`. Their generated passwords are supplied in the setup conversation, not committed to source. Web login requires changing the initial password. Existing accounts were not reset. `scripts/create-local-users.php` creates these accounts on a fresh installation and refuses to overwrite existing accounts.
+
+## Structure and theme
+
+- `public/`: the only web document root; web entry points and static assets.
+- `private/Http/`: controllers, JSON request handling, sessions and headers.
+- `private/Application/`: application use cases such as student authentication.
+- `private/Contracts/`: persistence interfaces consumed by application services.
+- `private/Infrastructure/`: SQLite setup and PDO repository implementations.
+- `private/Services/`: existing finance, access and student workflows.
+- `private/components/public/`: login template.
+- `private/components/private/`: signed-in web UI template.
+- `storage/`: local database and sessions, ignored by Git and not web-accessible.
+- `scripts/`, `tests/`, `docs/`: local setup, verification and architecture notes.
+
+Customize web colors in `AppTheme.palettes` in `public/assets/js/app-theme.js`.
+
+## Verification
+
+```powershell
+python ./tests/api_smoke.py
+```
+
+The test starts an isolated PHP server and temporary database. It checks login, CSRF, authenticated mobile data, logout and private-file blocking without changing your school database. Python is only needed for the test, not to run the API.
+
+See [architecture notes](docs/architecture.md) for remaining legacy boundaries. The PHP built-in server is for development; configure a production web server with `public/` as its document root for deployment.
